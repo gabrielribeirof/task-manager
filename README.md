@@ -25,13 +25,17 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Requirements
+- [Node](https://nodejs.org/en)
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+
 ## Project setup
 
 ```bash
 $ yarn install
 ```
 
-## Banco de dados
+## Database
 Rodar `docker compose up -d` para subir o container com PostgreSQL.
 
 ## `Prisma
